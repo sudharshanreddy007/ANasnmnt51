@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha android:fromAlpha="7.0"
+        android:toAlpha="0.0"
+        android:repeatCount="infinite"
+        android:duration="1000"></alpha>
+</set>
+
+    <!--<set>
+    A container that holds other animation elements (<objectAnimator>, <valueAnimator>, or other <set> elements). Represents an
+    AnimatorSet.
+    alpha is to set the position of the animation
+    android:repeatCount
+    int. How many times to repeat an animation. Set to "-1" to infinitely repeat or to a positive integer. For example, a value of "1"
+    means that the animation is repeated once after the initial run of the animation, so the animation plays a total of two times. The
+    default value is "0", which means no repetition.
+    android:duration
+    int. The time in milliseconds of the animation. 300 milliseconds is the default.-->
